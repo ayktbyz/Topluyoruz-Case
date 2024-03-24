@@ -12,7 +12,7 @@ Advanced Search Functionality: Instant search feature enabling users to quickly 
 Comprehensive Information: Detailed presentation of each listing's features, location, price, and other critical details.
 
 * Technologies and Libraries Used
-* 
+
 Retrofit: A powerful and flexible HTTP client for network requests.
 Gson: A Java library used for converting JSON data into Java objects.
 Glide: An efficient image loading and caching library.
