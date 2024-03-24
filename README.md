@@ -1,22 +1,67 @@
-The Code Base Case Android App
+<h3 align="left">The Code Base Case Android App</h3>
 
-Thecodebase Case is a real estate listing application built with modern architecture patterns and the latest Android development techniques. It allows users to explore various home and apartment options, access detailed information, and filter based on their desired features.
+###
 
- * Key Features
+<p align="left">Thecodebase Case is a real estate listing application built with modern architecture patterns and the latest Android development techniques. It allows users to explore various home and apartment options, access detailed information, and filter based on their desired features.</p>
 
-Modern Architecture: Developed using Clean Architecture and the MVVM pattern for robust and maintainable code.
-User-Friendly Interface: Adheres to Material Design principles, offering an intuitive and visually appealing UI/UX.
-Dynamic Listing Experience: Smooth scrolling and performance with an optimized RecyclerView.
-Interactive Detail Pages: Utilizes ViewPager2 to provide a slider experience for users to easily navigate through property images.
-Advanced Search Functionality: Instant search feature enabling users to quickly find the properties they're looking for.
-Comprehensive Information: Detailed presentation of each listing's features, location, price, and other critical details.
+###
 
-* Technologies and Libraries Used
+<h2 align="left">Key Features</h2>
 
-Retrofit: A powerful and flexible HTTP client for network requests.
-Gson: A Java library used for converting JSON data into Java objects.
-Glide: An efficient image loading and caching library.
-Kotlin Coroutines: Lightweight threads for asynchronous programming in Kotlin.
-Hilt: A comprehensive and scalable dependency injection library.
-View Binding: A feature that allows safe and simple access to views.
-LiveData and ViewModel: Libraries that facilitate observing data changes and managing the UI model relationship.
+###
+
+<p align="left">Modern Architecture: Developed using Clean Architecture and the MVVM pattern for robust and maintainable code.</p>
+
+###
+
+<p align="left">User-Friendly Interface: Adheres to Material Design principles, offering an intuitive and visually appealing UI/UX.</p>
+
+###
+
+<p align="left">Dynamic Listing Experience: Smooth scrolling and performance with an optimized RecyclerView.</p>
+
+###
+
+<p align="left">Interactive Detail Pages: Utilizes ViewPager2 to provide a slider experience for users to easily navigate through property images.</p>
+
+###
+
+<p align="left">Advanced Search Functionality: Instant search feature enabling users to quickly find the properties they're looking for.</p>
+
+###
+
+<p align="left">Comprehensive Information: Detailed presentation of each listing's features, location, price, and other critical details.</p>
+
+###
+
+<h2 align="left">Technologies and Libraries Used</h2>
+
+###
+
+<p align="left"><b>Retrofit:</b> A powerful and flexible HTTP client for network requests.</p>
+
+###
+
+<p align="left"><b>Gson:</b> A Java library used for converting JSON data into Java objects.</p>
+
+###
+
+<p align="left"><b>Glide:</b> An efficient image loading and caching library.</p>
+
+###
+
+<p align="left"><b>Kotlin Coroutines:</b> Lightweight threads for asynchronous programming in Kotlin.</p>
+
+###
+
+<p align="left"><b>Hilt:</b> A comprehensive and scalable dependency injection library.</p>
+
+###
+
+<p align="left"><b>View Binding:</b> A feature that allows safe and simple access to views.</p>
+
+###
+
+<p align="left"><b>LiveData and ViewModel:</b> Libraries that facilitate observing data changes and managing the UI model relationship.</p>
+
+###
