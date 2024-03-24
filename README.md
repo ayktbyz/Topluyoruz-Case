@@ -10,27 +10,27 @@
 
 ###
 
-<p align="left">Modern Architecture: Developed using Clean Architecture and the MVVM pattern for robust and maintainable code.</p>
+<p align="left"><b>Modern Architecture:</b> Developed using Clean Architecture and the MVVM pattern for robust and maintainable code.</p>
 
 ###
 
-<p align="left">User-Friendly Interface: Adheres to Material Design principles, offering an intuitive and visually appealing UI/UX.</p>
+<p align="left"><b>User-Friendly Interface:</b> Adheres to Material Design principles, offering an intuitive and visually appealing UI/UX.</p>
 
 ###
 
-<p align="left">Dynamic Listing Experience: Smooth scrolling and performance with an optimized RecyclerView.</p>
+<p align="left"><b>Dynamic Listing Experience:</b> Smooth scrolling and performance with an optimized RecyclerView.</p>
 
 ###
 
-<p align="left">Interactive Detail Pages: Utilizes ViewPager2 to provide a slider experience for users to easily navigate through property images.</p>
+<p align="left"><b>Interactive Detail Pages:</b> Utilizes ViewPager2 to provide a slider experience for users to easily navigate through property images.</p>
 
 ###
 
-<p align="left">Advanced Search Functionality: Instant search feature enabling users to quickly find the properties they're looking for.</p>
+<p align="left"><b>Advanced Search Functionality:</b> Instant search feature enabling users to quickly find the properties they're looking for.</p>
 
 ###
 
-<p align="left">Comprehensive Information: Detailed presentation of each listing's features, location, price, and other critical details.</p>
+<p align="left"><b>Comprehensive Information:</b> Detailed presentation of each listing's features, location, price, and other critical details.</p>
 
 ###
 
