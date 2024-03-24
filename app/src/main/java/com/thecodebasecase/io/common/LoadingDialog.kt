@@ -1,4 +1,4 @@
-package com.thecodebasecase.io.component
+package com.thecodebasecase.io.common
 
 import android.app.Dialog
 import android.content.Context

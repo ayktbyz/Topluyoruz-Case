@@ -1,8 +1,5 @@
 package com.thecodebasecase.io.ui.main
 
-import androidx.lifecycle.LiveData
-import androidx.lifecycle.MutableLiveData
-import androidx.lifecycle.ViewModel
 import androidx.lifecycle.liveData
 import com.thecodebasecase.io.common.Resource
 import com.thecodebasecase.io.repository.HouseRepository
