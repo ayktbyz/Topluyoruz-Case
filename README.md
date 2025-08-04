@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Thecodebase Case is a real estate listing application built with modern architecture patterns and the latest Android development techniques. It allows users to explore various home and apartment options, access detailed information, and filter based on their desired features.</p>
+<p align="left">Topluyoruz is a real estate listing application built with modern architecture patterns and the latest Android development techniques. It allows users to explore various home and apartment options, access detailed information, and filter based on their desired features.</p>
 
 ###
 
